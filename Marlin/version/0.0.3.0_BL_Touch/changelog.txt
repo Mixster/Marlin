@@ -1,0 +1,11 @@
+V0.0.3 - attempting to get BL Touch working
+ * we'll see...
+
+V0.0.2 - change Z direction as inverted
+ * no additional changes
+
+V0.0.1 - changes comparing 2.0.7 Marlin FW to this, first compile
+ * no additional config beyond setup for drivers
+
+V0.0.0 - Initital Version
+ * basic changes only to identify my machine

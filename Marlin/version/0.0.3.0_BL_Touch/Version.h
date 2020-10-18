@@ -30,10 +30,7 @@
  * along with BTT TFT35 E3 V2.0 dual-mode touch screen
  * and sensorless homing on X & Y.
  * Marlin Version 2.0.7.1
- * Mike Version 0.1.0.0 - initial release with:
- * bl touch
- * filament runout sensor
- * sensorless homing on x/y
+ * Mike Version 0.0.3.0 - changes to get BL Touch working
  */
 
 
@@ -53,7 +50,7 @@
  * here we define this default string as the date where the latest release
  * version was tagged.
  */
-#define STRING_DISTRIBUTION_DATE "2020-10-18"
+#define STRING_DISTRIBUTION_DATE "2020-10-16"
 
 /**
  * Defines a generic printer name to be output to the LCD after booting Marlin.
